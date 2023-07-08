@@ -44,6 +44,7 @@ import (
 	"time"
 
 	cleanhttp "github.com/hashicorp/go-cleanhttp"
+	_ "github.com/motemen/go-loghttp/global"
 )
 
 var (
